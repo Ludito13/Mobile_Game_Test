@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &628875854131976709
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8575594716271156075, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.380924
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594716271156076, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: col
+      value: 
+      objectReference: {fileID: 9203271540053131624}
+    - target: {fileID: 8575594716271156076, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: damage
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594716271156076, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: maxTimeToHit
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500027, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_Name
+      value: EnemyVariant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -17.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500028, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 3584720346022224670, guid: dc3620514f6233d4ba09e735760fd795, type: 3}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: maxSpeed
+      value: 4.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: rotateSpeed
+      value: 2.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: sounds.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: sounds.Array.data[0].aud
+      value: 
+      objectReference: {fileID: 8300000, guid: 41a5d1eadecfbe744bcbcc266d8504af, type: 3}
+    - target: {fileID: 8575594717052500029, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+      propertyPath: sounds.Array.data[0].names
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+--- !u!65 &9203271540053131624 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 8575594716271156077, guid: 500b83d49de3b5143ba1b01e556fef3e, type: 3}
+  m_PrefabInstance: {fileID: 628875854131976709}
+  m_PrefabAsset: {fileID: 0}

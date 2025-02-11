@@ -1,0 +1,38 @@
+{
+  "IDPlay": "Jugar",
+  "IDQuit": "Salir",
+  "IDOptions": "Opciones",
+  "IDAdd": "Sumar",
+  "IDSubstract": "Restar",
+  "IDStore": "Tienda",
+  "IDLevel1": "Nivel 1",
+  "IDLevel2": "Nivel 2",
+  "IDBuy": "Comprar",
+  "IDCoins": "Monedas",
+  "IDDelete": "Borrar datos",
+  "IDBack": "Volver",
+  "IDFirstDialogue": "Bienvenido novato como eres nuevo vamos a introducirte a este mundo.",
+  "IDSecondDialogue": "Empecemos con lo basico desliza tu dedo sobre la pantalla para moverte.",
+  "IDThirdDialogue": "Bien con eso es suficiente pasemos con otra cosa. Desliza rápido tu dedo para Dashear.",
+  "IDFourthDialogue": "Esto te puede servir para esquivar o para otras cosas.",
+  "IDFifthDialogue": "Cuidado los enemigos estan cerca.",
+  "IDSixthDialogue": "Lo hiciste bien novato pero esto solo fue el principio.",
+  "IDSeventhDialogue": "Sigamos avanzando para ver cuanto aguantas.",
+  "IDEighthDialogue": "Estamos en el final de la mazmorra sigamos avanzando con cuidado.",
+  "IDNinethDialogue": "Estas cajas con buenas para nosotros entre más monedas consigas mejores armas podras tener.",
+  "IDPause": "Pausa",
+  "IDYes": "Si",
+  "IDNo": "No",
+  "IDLose": "Perdiste",
+  "IDYou": "Tu",
+  "IDWin": "Ganaste",
+  "IDChange": "Cambiar Idioma",
+  "IDEnglish": "Ingles",
+  "IDSpanish": "Español",
+  "IDResume": "Reanudar",
+  "IDAdvertisment": " ¿Estas seguro que queres borrar los datos?",
+  "IDAreYouSure": "(Esta accion no puede deshacerse)"
+
+
+
+}

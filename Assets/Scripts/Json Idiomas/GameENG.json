@@ -1,0 +1,37 @@
+{
+  "IDPlay": "Play",
+  "IDQuit": "Exit",
+  "IDOptions": "Options",
+  "IDAdd": "Add",
+  "IDSubstract": "Substract",
+  "IDStore": "Store",
+  "IDLevel1": "Level 1",
+  "IDLevel2": "Level 2",
+  "IDBuy": "Buy",
+  "IDCoins": "Coins",
+  "IDDelete": "Delete Data",
+  "IDBack": "Back",
+  "IDFirstDialogue": "Welcome newbie as you are new we are going to introduce you to this world.",
+  "IDSecondDialogue": "Let´s start with the basics slide your finger on the screen to move.",
+  "IDThirdDialogue": "Well that's enough let´s do another thing. Quickly swipe your finger to Dash.",
+  "IDFourthDialogue": "This can be used for dodging or other things.",
+  "IDFifthDialogue": "Be careful the enemies are close",
+  "IDSixthDialogue": "You did it well newbie but this is only the beginning",
+  "IDSeventhDialogue": "Let's keep going to see how long you last.",
+  "IDEighthDialogue": "We are at the end of the dungeon let's move forward carefully.",
+  "IDNinethDialogue": "These boxes are good for us the more coins you get the better weapons you can have.",
+  "IDPause": "Pause",
+  "IDYes": "Yes",
+  "IDNo": "No",
+  "IDLose": "You Lose",
+  "IDWin": "You Win",
+  "IDChange": "Change Lenguage",
+  "IDEnglish": "English",
+  "IDSpanish": "Spanish",
+  "IDResume": "Resume",
+  "IDAdvertisment": "Are you sure you want to delete the data?",
+  "IDAreYouSure": "(This action cannot be undone)"
+
+
+
+}
